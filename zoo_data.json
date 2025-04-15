@@ -1,0 +1,100 @@
+{
+     "animals": [
+          {
+               "classis": "Bird",
+               "name": "\u0412\u043e\u0440\u043e\u043d\u0430 \u0424\u0451\u043a\u043b\u0430",
+               "sound": "\u041a\u0430\u0440",
+               "meal": "\u0417\u0451\u0440\u043d\u044b\u0448\u043a\u0438"
+          },
+          {
+               "classis": "Mammal",
+               "name": "\u041a\u043e\u0440\u043e\u0432\u0430 \u0417\u043e\u0440\u044c\u043a\u0430",
+               "sound": "\u041c\u0443",
+               "meal": "\u0421\u0438\u043b\u043e\u0441"
+          },
+          {
+               "classis": "Reptile",
+               "name": "\u041a\u0430\u0439\u043c\u0430\u043d \u0412\u0430\u0441\u0438\u043b\u0438\u0439",
+               "sound": "\u0425\u0440\u0440",
+               "meal": "\u0420\u044b\u0431\u0430"
+          },
+          {
+               "classis": "Bird",
+               "name": "\u041f\u0430\u0432\u043b\u0438\u043d \u041f\u0430\u0432\u0435\u043b",
+               "sound": "\u0410\u0430\u0430\u0430",
+               "meal": "\u0417\u0451\u0440\u043d\u044b\u0448\u043a\u0438"
+          },
+          {
+               "classis": "Bird",
+               "name": "\u0421\u0442\u0440\u0430\u0443\u0441 \u0421\u0442\u0451\u043f\u0430",
+               "sound": "\u042d\u0433\u0435\u0433\u0435\u0439",
+               "meal": "\u0412\u0435\u0440\u0448\u043a\u0438 \u0438 \u041a\u043e\u0440\u0435\u0448\u043a\u0438"
+          },
+          {
+               "classis": "Mammal",
+               "name": "\u041b\u0435\u0432 \u041b\u0451\u0432\u0430",
+               "sound": "\u0420\u0440\u0440\u0440",
+               "meal": "\u0417\u0435\u0431\u0440\u0430"
+          },
+          {
+               "classis": "Mammal",
+               "name": "\u0422\u0438\u0433\u0440 \u041a\u0438\u0441\u0430",
+               "sound": "\u041c\u044f\u0443",
+               "meal": "\u0410\u043d\u0442\u0438\u043b\u043e\u043f\u0430"
+          },
+          {
+               "classis": "Reptile",
+               "name": "\u0423\u0434\u0430\u0432 \u041a\u0430\u0430",
+               "sound": "\u0428\u0448\u0448",
+               "meal": "\u0411\u0430\u043d\u0434\u0435\u0440\u043b\u043e\u0433\u0438"
+          },
+          {
+               "classis": "Reptile",
+               "name": "\u042f\u0449\u0435\u0440 \u042f\u0448\u0430",
+               "sound": "\u0418\u043a",
+               "meal": "\u041d\u0430\u0441\u0435\u043a\u043e\u043c\u044b\u0435"
+          }
+     ],
+     "employees": [
+          {
+               "proff": "Veterinarian",
+               "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440 \u0414\u0436\u0435\u043a",
+               "age": 45
+          },
+          {
+               "proff": "Veterinarian",
+               "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440 \u0421\u0430\u0448\u0430",
+               "age": 32
+          },
+          {
+               "proff": "Veterinarian",
+               "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440 \u0421\u0430\u043d\u044f",
+               "age": 33
+          },
+          {
+               "proff": "Veterinarian",
+               "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440 \u0421\u0430\u043d\u0451\u043a",
+               "age": 34
+          },
+          {
+               "proff": "ZooKeeper",
+               "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c \u0414\u0436\u043e\u043d",
+               "age": 55
+          },
+          {
+               "proff": "ZooKeeper",
+               "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c \u041a\u043e\u043b\u044f",
+               "age": 35
+          },
+          {
+               "proff": "ZooKeeper",
+               "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c \u041a\u043e\u043b\u044f\u043d",
+               "age": 36
+          },
+          {
+               "proff": "ZooKeeper",
+               "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c \u041d\u0438\u043a\u043e\u043b\u0430\u0439",
+               "age": 37
+          }
+     ]
+}
